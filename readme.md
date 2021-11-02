@@ -12,15 +12,18 @@
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg"/>][twitter]
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>][linkedin]
 
-<br/>
+<hr/>
 
 ### Languages and tools
+
+#### I am proficient in
 
 <img align="left" height="32" width = "32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>
 <img align="left" height="32" width = "32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 <img align="left" height="32" width = "32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" height="32" width = "32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" height="32" width = "32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"/>
+<img align="left" height="32" width = "32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 
 <br/>
 
