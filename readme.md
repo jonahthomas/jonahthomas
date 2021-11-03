@@ -1,6 +1,6 @@
 ## Hi, I'm Jonah Thomas
 
-![Twitter Follow](https://img.shields.io/twitter/follow/JonahTh0mas?label=Follow%20Me%20on%20Twitter&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/JonahTh0mas?label=Follow%20Me%20on%20Twitter&style=social)][twitter]
 
 - I am a second year PhD student at Loughborough University 
     - My research focuses around the measurment and health benefits of short bouts of physical activity 
