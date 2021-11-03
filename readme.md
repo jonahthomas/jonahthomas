@@ -14,6 +14,8 @@
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hugo.svg"/>][blog]
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg"/>][twitter]
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>][linkedin]
+[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/orcid.svg"/>][orcid]
+
 
 <br/>
 
@@ -38,3 +40,4 @@
 [blog]: https://jonahthomas.netlify.app/
 [twitter]: https://twitter.com/JonahTh0mas
 [linkedin]: https://www.linkedin.com/in/jonah-thomas
+[orcid]: https://orcid.org/0000-0002-9886-0169
