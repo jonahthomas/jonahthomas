@@ -6,7 +6,7 @@
     - My research focuses around the measurment and health benefits of short bouts of physical activity 
     - I have a keen interest in all things digital health
 - I have a keen interest in all things data science 
-- I have an academic blog that can be found [here](https://jonahthomas.netlify.app/)
+- I am an initiator of health_stack which can be found [here](https://hstack.netlify.app/)
 
 
 ### Connect with me
