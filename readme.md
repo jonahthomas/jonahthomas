@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JonahTh0mas?label=Follow%20Me%20on%20Twitter&style=social)][twitter]
 
-- I am a second year PhD student at Loughborough University 
+- I am a third year PhD student at Loughborough University 
     - My research focuses around the measurment and health benefits of short bouts of physical activity 
     - I have a keen interest in all things digital health
 - I have a keen interest in all things data science 
